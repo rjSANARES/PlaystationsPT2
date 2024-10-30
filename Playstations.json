@@ -1,0 +1,53 @@
+{
+  "Playstations": [
+    {
+      "name": "Playstation1",
+      "description": "It's evident that the value can vary significantly based on the model and its historical and collectible significance.",
+      "price": "₱21,231.00",
+      "image": "Playstation1.jpg"
+    },
+    {
+      "name": "Playstation2",
+      "description": "This price can fluctuate based on factors like the console's condition, whether it includes all original components, and its operational status.",
+      "price": "₱25,233.00",
+      "image": "Playstation2.jpg"
+    },
+    {
+      "name": "Playstation3",
+      "description": "PS3 has a lot of great games to play, and the on-rails light gun games alone make the system worth owning.",
+      "price": "₱35,577.00",
+      "image": "Playstation3.jpg"
+    },
+    {
+      "name": "Playstation4",
+      "description": "The actual cost of a Playstation 4 gaming console can vary depending on model, condition, and physical location.",
+      "price": "₱40,399.00",
+      "image": "Playstation4.jpg"
+    },
+    {
+      "name": "Playstation5",
+      "description": "The vast majority of games are still ps4 port level stuff. Base ps5 gives you access to all the best ps4 games as well as a handful of ps5 exclusives.",
+      "price": "₱45,477.00",
+      "image": "Playstation5.jpg"
+    },
+    {
+      "name": "Playstation6",
+      "description": "Is sounds as if the PlayStation 6 is coming even sooner than any of us expected",
+      "price": "₱100,399.00",
+      "image": "Playstation6.jpg"
+    },
+    {
+      "name": "PlaystationPortable",
+      "description": "Hardware shipments of the PSP ended worldwide in 2014.",
+      "price": "₱5,399.00",
+      "image": "PlaystationPortable.jpg"
+    },
+    {
+      "name": "PlaystationVita",
+      "description": "They officially stopped supporting the Vita in 2021. No new games have been made since then. ",
+      "price": "₱8,736.00",
+      "image": "PlaystationVita.jpg"
+    }
+    
+  ]
+}
